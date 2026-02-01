@@ -1,8 +1,4 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vedant%20Jamodkar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20|%20DevOps%20%26%20Cloud%20Engineer&descAlignY=51&descAlign=50" />
-
-</div>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vedant%20Jamodkar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20DevOps%20and%20Cloud%20Engineer&descAlignY=51&descAlign=50)
 
 <h2 align="center">👋 Hello World! I'm Vedant, a Full Stack Developer 🚀</h2>
 
@@ -11,7 +7,7 @@
   🔐 Experienced in building secure, scalable systems with modern technologies<br>
   🐳 Proficient in Docker, containerization, and cloud deployment strategies<br>
   ⚡ Strong background in Cybersecurity and Blockchain development<br>
-  📫 Reach me: <a href="mailto:vedantjamodkar18@gmail.com">vedantjamodkar18@gmail.com</a>
+  📧 Reach me: <a href="mailto:vedantjamodkar18@gmail.com">vedantjamodkar18@gmail.com</a>
 </p>
 
 ---
@@ -45,7 +41,6 @@
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"/>
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
-  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS"/>
 </p>
 
 ---
@@ -53,13 +48,15 @@
 <h2 align="center">📊 GitHub Stats:</h2>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vedantjamodkar&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9" alt="Vedant's GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=vedantjamodkar&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=C9D1D9" alt="Vedant's Streak Stats"/>
-</div>
+  
+![Vedant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vedantjamodkar&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedantjamodkar&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9" alt="Top Languages"/>
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=vedantjamodkar&theme=react-dark&hide_border=true&bg_color=0D1117&color=F85D7F&line=F85D7F&point=F8D866" alt="Activity Graph"/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vedantjamodkar&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vedantjamodkar&layout=compact&theme=radical&hide_border=true)
+
+![Snake animation](https://raw.githubusercontent.com/vedantjamodkar/vedantjamodkar/output/github-contribution-grid-snake-dark.svg)
+
 </div>
 
 ---
@@ -75,9 +72,11 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=vedantjamodkar&color=F85D7F&style=flat-square" alt="Profile Views"/>
   
-  **💡 Open to Full Stack, DevOps & Cloud opportunities | Let's build something amazing!**
+![Profile Views](https://komarev.com/ghpvc/?username=vedantjamodkar&color=blueviolet&style=flat-square)
+  
+**💡 Open to Full Stack, DevOps & Cloud opportunities | Let's build something amazing!**
+
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
