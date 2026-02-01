@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vedant%20Jamodkar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20|%20DevOps%20%26%20Cloud%20Engineer&descAlignY=51&descAlign=50)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vedant%20Jamodkar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20|%20DevOps%20%26%20Cloud%20Engineer&descAlignY=51&descAlign=50" />
 
 </div>
 
@@ -53,13 +53,13 @@
 <h2 align="center">📊 GitHub Stats:</h2>
 
 <div align="center">
-  
-![Vedant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vedantjamodkar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vedantjamodkar&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9" alt="Vedant's GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=vedantjamodkar&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=C9D1D9" alt="Vedant's Streak Stats"/>
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vedantjamodkar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vedantjamodkar&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFA657)
-
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedantjamodkar&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=vedantjamodkar&theme=react-dark&hide_border=true&bg_color=0D1117&color=F85D7F&line=F85D7F&point=F8D866" alt="Activity Graph"/>
 </div>
 
 ---
@@ -75,7 +75,7 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=vedantjamodkar&color=58A6FF&style=flat-square" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=vedantjamodkar&color=F85D7F&style=flat-square" alt="Profile Views"/>
   
   **💡 Open to Full Stack, DevOps & Cloud opportunities | Let's build something amazing!**
 </div>
