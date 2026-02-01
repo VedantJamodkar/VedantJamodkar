@@ -49,13 +49,42 @@
 
 <div align="center">
   
-![Vedant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vedantjamodkar&show_icons=true&theme=radical&hide_border=true&count_private=true)
+<!-- Profile Details -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VedantJamodkar&theme=github_dark" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VedantJamodkar&theme=default" />
+</picture>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vedantjamodkar&theme=radical&hide_border=true)
+<br/><br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vedantjamodkar&layout=compact&theme=radical&hide_border=true)
+<!-- Overall Stats -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VedantJamodkar&theme=github_dark" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VedantJamodkar&theme=default" />
+</picture>
 
-![Snake animation](https://raw.githubusercontent.com/vedantjamodkar/vedantjamodkar/output/github-contribution-grid-snake-dark.svg)
+<!-- Languages -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VedantJamodkar&theme=github_dark" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VedantJamodkar&theme=default" />
+</picture>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/VedantJamodkar/VedantJamodkar/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/VedantJamodkar/VedantJamodkar/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake animation"
+    src="https://raw.githubusercontent.com/VedantJamodkar/VedantJamodkar/output/github-contribution-grid-snake.svg" />
+</picture>
+
 
 </div>
 
